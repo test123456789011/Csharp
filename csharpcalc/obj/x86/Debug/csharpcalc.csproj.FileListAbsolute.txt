@@ -1,0 +1,21 @@
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.frmMain.resources
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.Properties.Resources.resources
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\bin\Debug\csharpcalc.exe
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\bin\Debug\csharpcalc.pdb
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.exe
+c:\users\mahyar\documents\visual studio 2010\Projects\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.pdb
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.exe
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.pdb
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\bin\Debug\csharpcalc.exe
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\bin\Debug\csharpcalc.pdb
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.csprojResolveAssemblyReference.cache
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.frmMain.resources
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.Properties.Resources.resources
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.csproj.GenerateResource.Cache
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\bin\Debug\csharpcalc.exe.manifest
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\bin\Debug\csharpcalc.application
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.exe.manifest
+C:\Users\tariqual.hassan\Downloads\csharpcalc\csharpcalc\csharpcalc\obj\x86\Debug\csharpcalc.application
